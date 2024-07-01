@@ -1,0 +1,6 @@
+model_name_or_path: /data/disk4/models/THUDM/glm-4-9b-chat-1m
+template: glm4
+infer_backend: vllm
+vllm_enforce_eager: true
+infer_dtype: float16
+
